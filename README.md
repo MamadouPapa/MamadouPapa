@@ -15,6 +15,7 @@ Je suis titulaire d'un Mastère Cybersécurité & Cloud Computing (Bac+5).
 | Projet | En bref | Stack |
 |---|---|---|
 | [IdentityGuard](https://github.com/MamadouPapa/IdentityGuard) | Audit en lecture seule des identités AD et Entra ID, avec un rapport HTML noté et des pistes de remédiation | PowerShell, Microsoft Graph, Pester, GitHub Actions |
+| [EntraLifecycle](https://github.com/MamadouPapa/EntraLifecycle) | Automatisation des arrivées, mutations et départs dans Entra ID à partir d'un export RH. Rien n'est appliqué sans un plan validé, et le journal d'audit ne contient aucun secret | PowerShell, Microsoft Graph, Pester, GitHub Actions |
 | [RansomWatch](https://github.com/MamadouPapa/RansomWatch) | Détection comportementale d'un ransomware de TP, avec des règles Sigma, auditd et Suricata, et une cartographie MITRE ATT&CK | Python, Sigma, Suricata |
 | [ProManager](https://github.com/MamadouPapa/ProManager-Ransomware) | Ransomware pédagogique écrit en TP de Mastère, exécuté uniquement en VM isolée. C'est la partie « attaque » de RansomWatch | C, OpenSSL, GTK |
 

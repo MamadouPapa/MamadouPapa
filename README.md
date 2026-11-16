@@ -8,7 +8,7 @@ Je suis titulaire d'un Mastère Cybersécurité & Cloud Computing (Bac+5).
 
 **Je recherche un CDI ou un CDD. Disponible immédiatement.**
 
-[Portfolio](https://mamadoupapa.github.io/portfoliio/) · [LinkedIn](https://www.linkedin.com/in/papa-mamadou-gueye-developpeur-cybersecurite) · [mamadoupmg@gmail.com](mailto:mamadoupmg@gmail.com)
+[Portfolio](https://pmgueye.fr/) · [LinkedIn](https://www.linkedin.com/in/papa-mamadou-gueye-developpeur-cybersecurite) · [papa@pmgueye.fr](mailto:papa@pmgueye.fr)
 
 ## Projets
 

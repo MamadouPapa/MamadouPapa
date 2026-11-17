@@ -6,7 +6,7 @@ Je sécurise et j'administre des environnements Microsoft hybrides : Active Dire
 J'ai été pendant 2 ans Responsable du Système d'Information chez Hautier IP, où je gérais les identités et les accès, le déploiement du MFA, le durcissement des postes, les sauvegardes et le PRA, ainsi que la conformité RGPD.
 Je suis titulaire d'un Mastère Cybersécurité & Cloud Computing (Bac+5).
 
-**Je recherche un CDI ou un CDD. Disponible immédiatement.**
+
 
 [Portfolio](https://pmgueye.fr/) · [LinkedIn](https://www.linkedin.com/in/papa-mamadou-gueye-developpeur-cybersecurite) · [papa@pmgueye.fr](mailto:papa@pmgueye.fr)
 

@@ -8,8 +8,7 @@ Je suis titulaire d'un Mastère Cybersécurité & Cloud Computing (Bac+5).
 
 
 
-[Portfolio](https://pmgueye.fr/) · [LinkedIn](https://www.linkedin.com/in/papa-mamadou-gueye-developpeur-cybersecurite) · [papa@pmgueye.fr](mailto:papa@pmgueye.fr)
-
+[Portfolio](https://pmgueye.fr/) · [LinkedIn](https://www.linkedin.com/in/papa-mamadou-gueye-developpeur-cybersecurite) 
 ## Projets
 
 | Projet | En bref | Stack |

@@ -1,6 +1,6 @@
 # Papa Mamadou Gueye
 
-**Ingénieur Systèmes & Cybersécurité** · Microsoft 365 · Entra ID · IAM · Paris, mobile partout en France
+**Ingénieur Systèmes & Cybersécurité** · Microsoft 365 · Entra ID · IAM 
 
 Je sécurise et j'administre des environnements Microsoft hybrides : Active Directory, Entra ID, Microsoft 365 et Intune.
 J'ai été pendant 2 ans Responsable du Système d'Information chez Hautier IP, où je gérais les identités et les accès, le déploiement du MFA, le durcissement des postes, les sauvegardes et le PRA, ainsi que la conformité RGPD.

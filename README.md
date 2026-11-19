@@ -1,14 +1,14 @@
 # Papa Mamadou Gueye
 
-**Ingénieur Systèmes & Cybersécurité** · Microsoft 365 · Entra ID · IAM 
+**Ingénieur Systèmes & Cybersécurité** · Linux · Microsoft 365 · Entra ID · IAM 
 
-Je sécurise et j'administre des environnements Microsoft hybrides : Active Directory, Entra ID, Microsoft 365 et Intune.
+Je sécurise et j'exploite des systèmes Windows et Linux : Active Directory, Entra ID, Microsoft 365 et Intune d'un côté, serveurs Linux (Ubuntu, Debian, NGINX, Apache, MariaDB, Docker) de l'autre.
 J'ai été pendant 2 ans Responsable du Système d'Information chez Hautier IP, où je gérais les identités et les accès, le déploiement du MFA, le durcissement des postes, les sauvegardes et le PRA, ainsi que la conformité RGPD.
 Je suis titulaire d'un Mastère Cybersécurité & Cloud Computing (Bac+5).
 
 
 
-[Portfolio](https://pmgueye.fr/) · [LinkedIn](https://www.linkedin.com/in/papa-mamadou-gueye-developpeur-cybersecurite) 
+[Portfolio](https://www.pmgueye.fr/) · [LinkedIn](https://www.linkedin.com/in/papa-mamadou-gueye-developpeur-cybersecurite) 
 ## Projets
 
 | Projet | En bref | Stack |
@@ -22,5 +22,6 @@ Je suis titulaire d'un Mastère Cybersécurité & Cloud Computing (Bac+5).
 
 - **Identités et sécurité** : IAM, MFA, accès conditionnel, durcissement, audits, PRA/PCA, RGPD
 - **Microsoft** : Entra ID, Microsoft 365, Exchange Online, Intune, Active Directory, GPO, Azure
-- **Systèmes et réseau** : Windows Server, Linux, VMware, Hyper-V, DNS, DHCP, VLAN, VPN, pare-feu
+- **Linux** : Ubuntu, Debian, NGINX, Apache / PHP-FPM, MySQL / MariaDB, Docker
+- **Systèmes et réseau** : Windows Server, VMware, Hyper-V, DNS, DHCP, VLAN, VPN, pare-feu
 - **Automatisation** : PowerShell, Python, Power Automate, Power Apps, Git, CI/CD
